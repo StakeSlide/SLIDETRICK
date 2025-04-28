@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome to Stakeslide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="center">
+  <h1>WELCOME TO STAKESLIDE</h1>
+  <p>This trick works 100% but Be patient</p>
+  <a href="home.html" class="button">ACCESS THE TRICK</a>
+</body>
+</html>
